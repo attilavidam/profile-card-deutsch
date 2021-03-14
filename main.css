@@ -188,7 +188,7 @@ li {
 }
 
 
-@media only screen and (max-height: 560px) { 
+@media only screen and (max-height: 530px) { 
   .shots {
     display: none;
   }
